@@ -35,7 +35,7 @@ raw = "Automation QA"
 print(raw.upper()) #поднимает буквы заглавные
 print(raw.lower()) #опускает буквы маленькие
 
-#strip()
+#strip() обрезает любые лишние символы с двух сторон
 print(raw.strip().upper())
 
 #split() разрезает строку на отдельные части
